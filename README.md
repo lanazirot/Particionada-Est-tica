@@ -1,0 +1,1 @@
+# Particionada Estática
